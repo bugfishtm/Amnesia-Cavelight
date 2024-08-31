@@ -12,4 +12,4 @@ You can explore the code and files in the GitHub repository by clicking the link
 
 To download the latest file from the repository directory, click the link below:
 
-[Download Latest Release](https://github.com/bugfishtm/Dovecot-Certificate-Interface/archive/refs/heads/main.zip){.md-button}
+[Download Latest Release](https://github.com/bugfishtm/Amnesia-Cavelight/archive/refs/heads/main.zip){.md-button}
